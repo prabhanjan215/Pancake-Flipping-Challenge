@@ -12,6 +12,6 @@ hand - hand used (right or left)
 attempts - number of attempts/flips for the match in that day
 score - succesful no of flips for the match in that day
 
-**What to determine?:
-**
+**What to determine?:**
+
 Is Arielle or Boris the better pancake flipper? Justify your decision. Do both sides have a case here?
